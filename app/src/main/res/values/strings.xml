@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">View Sepatu</string>
+    <string name="buy">Buy Now</string>
+    <string name="size">Available Size :</string>
+    <string name="sizet">40 / 42 / 43 / 45</string>
+    <string name="brand">Item :</string>
+    <string name="brandt">Adidas X  18.1 FG - OFF White/White/Core Black</string>
+    <string name="price">Price :</string>
+    <string name="pricet">$109.38</string>
+    <string name="desc">Description :</string>
+    <string name="details">Details :</string>
+    <string name="dummy_photos">Football</string>
+    <string name="category">Category :</string>
+    <string name="cat1">Sports, Football</string>
+    <string name="stok">LOW STOCK</string>
+    <string name="detailst1">There\'s no game plan for you. You think fast and play faster. The pitch is your runway and your destination is beyond your rivals\' reach.
+        Sculpted for speed, the adidas X 18.1 FG football boots will feature on the feet of Gareth Bale and Thomas Muller.</string>
+    <string name="detailst2">Stripped down to the essentials to maximise your speed and control, the X 18.1 features a super-thin speed mesh upper for a direct touch on the ball.
+        Providing optimal lockdown in the midfoot, the boot’s four-way stretch tongue and adaptable lacing system work together to deliver a comfortable fit. </string>
+    <string name="detailst3">For game-changing stability in the rearfoot, these adidas football boots feature a low-cut Clawcollar design for lockdown, while 3D moulded and cushioned zones in the heel offer a secure fit around the ankle. </string>
+    <string name="detailst4">Designed to help boost your acceleration off the mark, the X’s perforated Speedframe outsole helps reduce the overall weight of the boot, while its arrowhead shaped studs in the forefoot and round heel studs encourage quick penetration for quick movement on firm natural ground surfaces.</string>
+    <string name="note">Please note: To achieve the perfect fit, Pro:Direct recommend you go up half a size for the entire adidas X range.</string>
+</resources>
